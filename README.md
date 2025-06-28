@@ -9,7 +9,7 @@
   <li>📊 Passionate about Data Science, Machine Learning, and solving real-world problems with AI.</li>
   <li>👨‍💻 I’ve completed projects in areas like math score prediction, network intrusion detection, and birth/death certificate automation with FastAPI + MySQL.</li>
   <li>📚 I'm also working on a research project on NLP-based suicidal ideation detection from social media posts.</li>
-  <li>🧠 Currently building <strong>Brain Stream</strong> – an AI-powered thought-organizing productivity app.</li>
+  <li>🧠 Currently building an AI Agent that will help to choose carrer.</li>
   <li>🚀 Exploring advanced topics like RAG (Retrieval-Augmented Generation), satellite image analysis, and blockchain for climate solutions.</li>
   
 </ul>
